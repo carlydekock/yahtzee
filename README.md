@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Yahtzee
+
+## GitHub repo [here](https://github.com/carlydekock/yahtzee.git)
+
+## Resources
+
+- Following along with the Modern React Bootcamp with Colt Steele on Udemy
+- Starter code provided in the course.
+
+------------------------------------------------------
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
