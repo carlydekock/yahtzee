@@ -5,7 +5,8 @@
 ## Resources
 
 - Following along with the Modern React Bootcamp with Colt Steele on Udemy
-- Starter code provided in the course.
+- Starter code provided in the course
+- Font Awesome free icons docs [here](https://fontawesome.com/v5.15/how-to-use/on-the-web/setup/using-package-managers)
 
 ------------------------------------------------------
 
